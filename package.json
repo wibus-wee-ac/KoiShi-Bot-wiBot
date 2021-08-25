@@ -1,0 +1,12 @@
+{
+  "name": "koishi-wibot",
+  "version": "1.0.0",
+  "description": "Some Bot Script, Built with TypeScript, Power by KoiShi",
+  "main": "index.js",
+  "repository": "git@github.com:wibus-wee/KoiShi-Bot-wiBot.git",
+  "author": "wibus-wee <1596355173@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koishi-core": "^3.14.1"
+  }
+}
